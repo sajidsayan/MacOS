@@ -19,26 +19,25 @@
 
 	<aside class:light={preferences.theme.scheme === 'light'}>
 		<nav>
-			<a href="https://www.puruvj.dev/blog" use:external> <BlogIcon /> Blog </a>
-			<a href="https://www.puruvj.dev/works" use:external> <WorksIcon /> Works </a>
+			<a href="https://github.com/sajidsayan?tab=repositories" use:external> <WorksIcon /> Works </a>
 
 			<hr />
 
-			<a href="https://www.puruvj.dev/twitter" use:external>
+			<a href="https://x.com/_evil_sensei_" use:external>
 				<TwitterIcon />
 				Twitter
 			</a>
-			<a href="https://www.puruvj.dev/github" use:external> <GithubIcon /> Github </a>
-			<a href="https://www.puruvj.dev/devto" use:external> <DevToIcon /> Dev.to </a>
+			<a href="https://github.com/sajidsayan" use:external> <GithubIcon /> Github </a>
+			<a href="https://github.com/sajidsayan" use:external> <DevToIcon /> Dev.to </a>
 		</nav>
 	</aside>
 
 	<section class="content">
-		<img height="200" width="200" src="/purus-profile/puru.webp" alt="Puru Vijay Profile pic" />
+		<img height="200" width="200" src="https://iili.io/Fj8PJ4V.png" alt="Sajid Mahmud Sayan PIC" />
 
 		<br />
 
-		<h1>Hi, I'm Puru</h1>
+		<h1>Hi, I'm Sajid Mahmud Sayan</h1>
 
 		<h2>
 			I'm the creator of macOS Web, which you're on right now
